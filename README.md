@@ -1,6 +1,6 @@
 # Proyek CRUD-1
 
-Implementasi sederhana dari operasi CRUD (Create, Read, Update, Delete) menggunakan PHP dan PostgreSQL. Proyek ini juga menyediakan API sederhana untuk mengelola data aset dari ini.
+Implementasi sederhana dari operasi CRUD (Create, Read, Update, Delete) menggunakan PHP dan PostgreSQL. Proyek ini juga menyediakan API sederhana untuk mengelola.
 
 ## Fitur
 
